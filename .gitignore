@@ -1,0 +1,18 @@
+# dot files
+/.settings
+/.eide/log
+/.eide.usr.ctx.json
+
+# project out
+.vscode/
+/build
+/bin
+/obj
+/out
+
+# eide template
+*.ept
+*.eide-template
+
+/Project/Listings
+/Project/Objects
