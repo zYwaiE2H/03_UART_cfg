@@ -23,7 +23,7 @@ int main(void)
   USART0_init();
   Keys_init();
 
-  // USART0_send_byte('b');
+  USART0_send_byte('b');
   // USART0_send_byte('b');
   // USART0_send_byte('c');
 
